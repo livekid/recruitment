@@ -14,11 +14,11 @@ Make sure to follow golden ratio.
  
 ### Setup
  ```sh
-1. npm install - to install packages
+1. npm install
 ```
  ```sh
-2. npm run serve - to serve an app on localhost
+2. npm run serve
 ```
  ```sh
-3. npm run test:unit to run unit tests
+3. npm run test:unit
 ```
